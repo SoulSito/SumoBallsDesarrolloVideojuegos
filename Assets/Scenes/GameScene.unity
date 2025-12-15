@@ -288,7 +288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimientoBola2D
   fuerzaMovimiento: 5
-  tipoControl: 0
+  tipoControl: 1
 --- !u!1 &1758551242
 GameObject:
   m_ObjectHideFlags: 0
@@ -704,7 +704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimientoBola2D
   fuerzaMovimiento: 5
-  tipoControl: 1
+  tipoControl: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
